@@ -37,8 +37,8 @@ To discover how key external factors influence sales trends and provide insights
 - Helped support data-driven business decisions and promotional strategy planning.
 
 ---
-
-## 📁 Folder Structure
+## Result
+![Performance Store](results/performance.png)
 
 
 ## 📎 Contact  
