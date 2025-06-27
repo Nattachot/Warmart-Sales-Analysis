@@ -40,3 +40,10 @@ To discover how key external factors influence sales trends and provide insights
 
 ## 📁 Folder Structure
 
+
+## 📎 Contact  
+Nattachot Puttitanachot | [LinkedIn](www.linkedin.com/in/nattachot-puttitanachot-356b2b269) 
+
+> 🔗 This project is part of my Data Analyst portfolio.
+
+
