@@ -38,7 +38,10 @@ To discover how key external factors influence sales trends and provide insights
 
 ---
 ## Result
-![Performance Store](results/performance.png)
+![Performance Store](Results/PerformanceStoreByScore.png)
+![Total Sales By Year](Results/TotalSalesByYear.png)
+![Sales Trend](Results/SalesTrend.png)
+![Sales Trend By Month](Results/SalesTrendByMonth.png)
 
 
 ## 📎 Contact  
